@@ -5,3 +5,4 @@ Organized collection of datasets' about information, overview, licenses, and oth
 | Dataset | License |
 | --- | --- |
 | micro-gas-turbine-electrical-energy | CC-BY-4.0 | 
+| synthetic-circle | CC-BY-4.0 | 
